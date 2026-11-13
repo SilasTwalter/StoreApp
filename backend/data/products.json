@@ -1,0 +1,39 @@
+{"products": [
+    {
+        "id": "0",
+        "name": "Door Mat",
+        "price": "$19.99",
+        "pictureUrl": "http://localhost:3000/assets/pictures/doorMat.jpg"
+    },
+    {
+        "id": "1",
+        "name": "Chair",
+        "price": "$54.99",
+        "pictureUrl": "http://localhost:3000/assets/pictures/chair.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Fridge",
+        "price": "$299.99",
+        "pictureUrl": "http://localhost:3000/assets/pictures/fridge.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Table",
+        "price": "$99.99",
+        "pictureUrl": "http://localhost:3000/assets/pictures/table.jpg"
+    },
+    {
+        "id": "4",
+        "name": "TV",
+        "price": "$349.99",
+        "pictureUrl": "http://localhost:3000/assets/pictures/tv.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Yoshi",
+        "price": "$14.99",
+        "pictureUrl": "http://localhost:3000/assets/pictures/BlueFatYoshi.png"
+    }
+]
+}
